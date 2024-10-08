@@ -1,0 +1,105 @@
+
+
+.img1{
+
+    animation: fadeIn 3s ease forwards ;
+}
+
+@keyframes fadeIn {
+0%{
+    transform: translateX(-100px);
+}
+
+100%{
+    transform: translate(0px);
+}
+  }
+ 
+
+  .text{
+    animation: slightTop 3s  ease forwards;
+  }
+  @keyframes slightTop{
+   0%{
+    transform: translateX(-100px);
+   }
+   50%{
+    transform: translateY(100px);
+   }
+   100%{
+    transform: translateX(0px);
+   }
+  }
+
+  .text1 ,.fade2{
+    animation: fadeIn 3s ease forwards ;
+}
+
+@keyframes fadeIn {
+0%{
+    transform: translateX(-100px);
+}
+100%{
+    transform: translate(0px);
+}
+  }
+
+  .button1{
+    animation: trans 3s ease forwards ;
+  }
+
+  @keyframes trans {
+    0%{
+        transform: translateX(-300px);
+    }
+    100%{
+        transform: translate(0px);
+    }
+      }
+
+      .contact:hover{
+        text-decoration: none;
+       box-shadow: 0 0 50px;
+       border-radius: 50px;
+       background-color:black;
+       color:white;
+       animation: moves 2s ease forwards;
+      
+    
+      }
+
+      @keyframes moves{
+        0%{
+            transform: translateY(-10px);
+        }
+        100%{
+            transform: translateY(0px);
+        }
+      }
+/* home.css */
+/* #bg {
+  background: linear-gradient(to right, #6a11cb, #2575fc); 
+  min-height: 100vh; 
+} */
+
+.text1 {
+  font-size: 1.1rem; /* Adjust base font size */
+}
+
+.button1 {
+  transition: background-color 0.3s;
+}
+
+
+@media (max-width: 768px) {
+  .text1 {
+      font-size: 1rem; /* Smaller font size on smaller screens */
+  }
+
+  h1 {
+      font-size: 2.5rem; /* Responsive heading size */
+  }
+}
+
+ 
+      

@@ -1,0 +1,31 @@
+.about{
+    animation: about 2s ease forwards;
+}
+@keyframes about{
+    0%{
+        transform: translateX(-350px);
+        opacity: 0.2;
+
+       
+    }
+
+    20%{
+            opacity: 0.4;
+            
+    }
+
+    50%{
+        opacity: 0.6;
+    }
+
+    80%{
+        opacity: 0.8;
+    }
+
+    100%{
+        transform:translateX(0px);
+        opacity: 1;
+    }
+
+
+}
