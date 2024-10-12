@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import { Link } from 'react-router-dom';
 import './header.css';
-import resume from './Resume1.pdf';
+import resume from './Resume-adh.pdf';
 
 function Header() {
   return (
@@ -26,7 +26,7 @@ function Header() {
             </Link>
           </Nav>
           <Nav>
-            <Nav.Link className='d-flex align-items-center justify-content-center' href={resume}>
+            <Nav.Link className='d-flex align-items-center justify-content-center' href={resume} target='blank'>
               <button className='btn btn-outline-primary p-2 fw-bold'>Resume  <i class="fa-solid fa-bounce fa-cloud-arrow-down"></i></button>
             </Nav.Link>
           </Nav>

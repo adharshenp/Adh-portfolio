@@ -25,11 +25,11 @@ function About() {
 
                         <h4 class="text-light fw-bold mt-4">* Plus-Two</h4>
                         <p class="text-light">SCIENCE</p>
-                        <p class="text-light">Kannur University</p>
+                        <p class="text-light">Board of Higher secondary Education(Gov of Kerala)</p>
                         <p class="text-light">GHSS Chayoth</p>
 
                         <h4 class="text-light fw-bold mt-4">* SSLC</h4>
-                        <p class="text-light">Kannur University</p>
+                        <p class="text-light">General Education Department(Gov of Kerala)</p>
                         <p class="text-light">GHSS Chayoth</p>
                     </div>
                 </div>
