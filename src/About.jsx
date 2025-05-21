@@ -41,17 +41,31 @@ function About() {
                 <div class="card-body">
                     <h2 class="text-center fw-bold p-1 fs-3 bg-dark text-light rounded-pill mb-4">Experience</h2>
                     <div class="experience-details">
-                        <h4 class="text-light">* Internship</h4>
+                        <h4 class="text-light mx-5">  FULL-STACK DEVELOPER</h4><br></br>
                         <p class="text-light">6-Month internship at <a href="https://www.luminartechnolab.com" target="_blank" class="fw-bold text-light" title="Click to visit page"><span style={{color:'violet'}}>Luminar Technolab</span></a>, Kochi</p>
-
-                        <h4 class="mt-4 text-light text-center">MERN STACK DEVELOPER</h4>
                         <h5 class="text-light mt-4">Key Stats</h5>
                         <ul class="text-light">
-                            <li>Full-stack Developer</li>
-                            <li>Front-end Developer</li>
-                            <li>Back-end Developer</li>
-                            <li>Web Developer</li>
-                        </ul>
+                            <li>React</li>
+                            <li>Javascript</li>
+                            <li>Node js </li>
+                            <li>Mongodb</li>
+                            <li>Version Control</li>
+
+                        </ul> 
+
+                        <p class="text-light">3-Month internship at <a href="https://www.cybersapient.io" target="_blank" class="fw-bold text-light" title="Click to visit page"><span style={{color:'violet'}}>Cyber Sapient</span></a>, Kochi</p>
+
+                
+                         <h5 class="text-light mt-4">Key Stats</h5>
+                        <ul class="text-light">
+                            <li>Javascript</li>
+                            <li>Next js</li>
+                            <li>Psql</li>
+                            <li>Version Control</li>
+                        </ul> 
+
+                       
+                        
                     </div>
                 </div>
             </div>
