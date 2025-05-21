@@ -8,8 +8,8 @@ function About() {
 <div class='about d-flex align-items-center justify-content-center flex-column container'>
     <h1 class='mt-5 fw-bold' style={{color:'white',letterSpacing:'3px'}}>WHO I'M I ... ?</h1>
 
-    <div class="shadow d-flex align-items-center justify-content-center mt-5 mb-3 ms-5 ">
-        <p class='fs-3' style={{wordSpacing:'3px'}}>I'm <span style={{color:'White',boxShadow:'0 0  5px',borderRadius:'5px'}}>  ADHARSH.P  </span> ,a seasoned MERN Stack Developer, seeking an exciting opportunity to contribute to a dynamic team. As per my project Experience I can bring a wealth of expertise and a track record of successful project deliveries in the dynamic realm of full stack web development. With a robust command of MongoDB, Express.js, React.js and Node.js, I am eager to contribute my skills to a forward thinking team.</p>
+    <div class="shadow d-flex align-items-center justify-content-center mt-5 mb-3 ms-2 ">
+        <p class='fs-3 ps-4 pe-4' style={{wordSpacing:'3px'}}>I'm <span style={{color:'White',boxShadow:'0 0  5px',borderRadius:'5px'}}>  ADHARSH.P  </span> ,a seasoned MERN Stack Developer, seeking an exciting opportunity to contribute to a dynamic team. As per my project Experience I can bring a wealth of expertise and a track record of successful project deliveries in the dynamic realm of full stack web development. With a robust command of MongoDB, Express.js, React.js and Node.js, I am eager to contribute my skills to a forward thinking team.</p>
     </div>
 
     <div class="row mt-5">

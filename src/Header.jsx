@@ -4,7 +4,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import { Link } from 'react-router-dom';
 import './header.css';
-import resume from './Resume-adh.pdf';
+import resume from './Resume-adharsh.pdf';
 
 function Header() {
   return (
